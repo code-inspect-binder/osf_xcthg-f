@@ -1,0 +1,127 @@
+"","Zeit","Strafraum","Ballbesitz","Boundary","interval","FanEB","Movie","testType","ZeitMemoryItem","Bemerkung","halftime","ZeitSekunden","ZeitMemorySekunden","MemoryEB95"
+"1"," 01:05",0,"FCB --> FCB",0,13,"","K_M_01.avi","KritSit"," 01:05","langer Pass",1,65,65,"keine"
+"2"," 01:50",0,"FCB --> BVB",1,22,"FCB","K_D_02.avi","KritSit"," 01:51","Test Item andere Szene",1,110,111,"keine"
+"3"," 02:20",1,"BVB --> BVB",0,29,"","K_D_03.avi","KritSit"," 02:20","langer Pass in den Strafraum des FCB",1,140,140,"keine"
+"4"," 02:22",1,"BVB --> FCB",0,30,"","T_D_01.avi","Tor"," 02:22","Torschuss nebens Tor",1,142,142,"keine"
+"5","02:55",1,"BVB --> FCB",1,35,"FCB","E_D_01.avi","Ecken","02:58","Ecke Dortmund auf Kopf von FCB",1,175,178,"keine"
+"6","03:22",0,"FCB --> BVB",0,40,"","K_D_04.avi","KritSit","03:22","Langer Pass aus dem Strafraum des FCB",1,202,202,"keine"
+"7","04:05",1,"FCB --> BVB",1,49,"FCB","","","","Langer Pass (zu lang), wird vom Torwart leicht gefangen und BVB hat den Ball",1,245,NA,NA
+"8","04:51",0,"BVB --> BVB",0,58,"","K_D_05.avi","KritSit","04:51","",1,291,291,"keine"
+"9","06:02",1,"BVB --> FCB",0,72,"","K_D_06.avi","KritSit","06:02","Freistoß in den Strafraum",1,362,362,"keine"
+"10","06:35",1,"BVB --> FCB",1,79,"FCB","E_D_02.avi","Ecken"," 06:39","Ecke Dortmund Torwart fängt sicher",1,395,399,"keine"
+"11","07:23",0,"FCB --> FCB",0,88,"","K_M_07.avi","KritSit","07:23","Pass am Boden",1,443,443,"keine"
+"12","08:50",0,"BVB --> FCB",1,106,"FCB","K_D_08.avi","KritSit"," 08:50","Ballabnahme, hoher Ball, BVB bleibt dann doch im Ballbesitz",1,530,530,"keine"
+"13","09:03",0,"BVB --> BVB",0,108,"","K_D_09.avi","KritSit"," 09:02","Pass am Boden",1,543,542,"keine"
+"14","09:35",1,"FCB --> BVB",1,115,"BVB","","","","Ballverlust FCB im Strafraum",1,575,NA,NA
+"15"," 09:43",0,"BVB --> BVB",0,116,"","K_D_11.avi","KritSit"," 09:43","langer Pass am Boden",1,583,583,"keine"
+"16"," 09:47",0,"BVB --> BVB",0,117,"","K_D_10.avi","KritSit","  09:47","Angriff BVB, kurz vor Strafraum",1,587,587,"keine"
+"17","09:50",1,"BVB --> FCB",1,118,"BVBFCB","T_D_02.avi","Tor"," 09:49","Torschuss aus dem Mittelfeld, knapp übers Tor",1,590,589,"ALL"
+"18","11:45",0,"FCB --> BVB",1,141,"FCB","","","","Ball ins Aus gespielt",1,705,NA,NA
+"19"," 12:32",0,"BVB --> BVB",0,150,"","K_D_12.avi","KritSit"," 12:32","Zweikampf an der langen Seit ",1,752,752,"keine"
+"20","12:35",0,"BVB --> BVB",1,151,"BVB","","","","Angriff BVB auf Torseite, Ball ins Aus",1,755,NA,NA
+"21","12:40",1,"BVB --> FCB",1,152,"FCB","","","","Ball im Aus",1,760,NA,NA
+"22","12:55",0,"FCB --> BVB",1,155,"FCB","","","","Fehlpass FCB, Ball wird von BVB abgefangen",1,775,NA,NA
+"23","13:00",1,"BVB --> FCB",1,156,"BVBFCB","T_D_03.avi","Tor"," 13:01","Torschuss aus dem Mittelfeld, Torwart ist noch dran - Latte",1,780,781,"ALL"
+"24","13:45",1,"BVB --> FCB",1,165,"FCB","E_D_03.avi","Ecken"," 13:48","Ecke Dortmund, Kopf FCB",1,825,828,"keine"
+"25","13:55",0,"BVB --> BVB",1,167,"FCB","","","","Pass BVB BVB, am Boden, nahe am Strafraum",1,835,NA,NA
+"26","14:00",1,"BVB --> FCB",1,168,"BVB","T_D_03.1.avi","Tor"," 13:58","Schuss BVB am Boden, Torwart wehrt ab",1,840,838,"ALL"
+"27","14:24",1,"BVB --> FCB",0,172,"","E_D_03.1.avi","Ecken","14:24","Ecke BVB, Kopf FCB",1,864,864,"keine"
+"28","14:34",0,"FCB --> BVB",0,174,"","K_D_12.1.avi","KritSit","  14:34","Fallrückzieher FCB --> langer Ball ",1,874,874,"keine"
+"29","15:40",0,"FCB --> FCB",1,188,"FCB","","","","Angriff FCB auf der BVB Hälfte",1,940,NA,NA
+"30","15:45",1,"FCB --> BVB",1,189,"BVBFCB","T_M_04.avi","Tor"," 15:43","Torschuss am Boden FCB, Torwart hält",1,945,943,"ALL"
+"31"," 16:39",0,"FCB --> BVB",0,199,"","K_M_13.avi","KritSit"," 16:39","Fehlpass FCB, Ball wird von BVB abgefangen",1,999,999,"keine"
+"32","17:10",0,"BVB --> FCB",1,206,"FCB","","","","Foul BVB an FCB nach Fehlpass BVB",1,1030,NA,NA
+"33","18:25",0,"BVB --> BVB",1,221,"BVB","","","","Angriff BVB",1,1105,NA,NA
+"34","18:30",0,"BVB --> BVB",1,222,"FCB","","","","Angriff BVB",1,1110,NA,NA
+"35","18:35",0,"BVB --> FCB",1,223,"BVBFCB","T_D_05.avi","Tor"," 18:33","Torschuss aufs Tor, Torwart wehrt ab",1,1115,1113,"ALL"
+"36","19:05",0,"BVB --> FCB",0,229,"FCB","E_D_04.avi","Ecken"," 19:06","Ecke Dortmund",1,1145,1146,"keine"
+"37","20:54",0,"FCB --> BVB",0,250,"","K_M_14.avi","KritSit"," 20:54","Einwurf FCB --> Kopf BVB",1,1254,1254,"keine"
+"38","21:05",0,"BVB --> BVB",1,253,"BVB","","","","Angriff BVB, Geräuschkulisse schwillt an",1,1265,NA,NA
+"39","21:10",0,"BVB --> FCB",0,254,"","K_D_15.avi","KritSit"," 21:10","Ballverlust BVB während des Angriffs",1,1270,1270,"ALL"
+"40","21:20",1,"BVB --> FCB",1,256,"BVBFCB","T_D_06.avi","Tor"," 21:22","Angriff BVB mit Torschuss BVB --> Torwart fängt",1,1280,1282,"ALL"
+"41","22:40",0,"BVB --> BVB",0,272,"","K_D_16.avi","KritSit"," 22:42","",1,1360,1362,"keine"
+"42"," 23:15",0,"BVB --> BVB",0,279,"","K_D_17.avi","KritSit"," 23:15","Pass in Nähe des Strafraums",1,1395,1395,"keine"
+"43","23:40",1,"BVB --> BVB",1,284,"FCB","","","","Rückpass zum Torwart BVB",1,1420,NA,NA
+"44"," 24:20",0,"BVB --> FCB",1,292,"FCB","","","","Angriff BVB --> Schiedsrichter steht dazwischen",1,1460,NA,NA
+"45"," 24:35",1,"FCB --> BVB",1,295,"FCB","","","","Angriff FCB wird im Strafraum BVB abgefangen",1,1475,NA,NA
+"46"," 24:48",0,"BVB --> FCB",0,297,"","K_M_17.1.avi","KritSit"," 24:48","Langer Ball BVB zu FCB",1,1488,1488,"keine"
+"47"," 24:50",0,"FCB --> BVB",1,298,"FCB","","","","Foul BVB an FCB, dann Foul Ribéry",1,1490,NA,NA
+"48"," 25:40",1,"FCB --> BVB",1,308,"BVBFCB","T_M_07.avi","Tor"," 25:40","Torschuss Bayern",1,1540,1540,"ALL"
+"49"," 26:20",1,"FCB --> BVB",1,316,"FCB","T_M_08.avi","Tor"," 26:24","Ecke und Torschuss FCB",1,1580,1584,"keine"
+"50"," 28:54",0,"BVB --> BVB",0,346,"","K_D_18.avi","KritSit"," 28:54","Langer Pass BVB",1,1734,1734,"keine"
+"51"," 29:00",1,"BVB --> FCB",1,348,"FCB","","","","Torchance BVB, Torwart hält",1,1740,NA,NA
+"52"," 29:40",0,"FCB --> FCB",1,356,"FCB","","","","Langer Pass nach vorne FCB",1,1780,NA,NA
+"53"," 29:45",1,"FCB --> BVB",1,357,"BVBFCB","T_M_08.1.avi","Tor"," 29:45","Torschuss FCB, Torwart fängt",1,1785,1785,"ALL"
+"54"," 30:04",1,"FCB --> FCB",0,360,"","E_M_05.avi","Ecken"," 30:04","Ecke FCB",1,1804,1804,"keine"
+"55"," 33:25",0,"FCB --> BVB",1,401,"BVB","","","","Freistoß FCB",1,2005,NA,NA
+"56"," 34:05",0,"BVB --> FCB",1,409,"BVB","","","","Ballverlust BVB",1,2045,NA,NA
+"57"," 34:40",0,"BVB --> BVB",1,416,"BVB","K_D_19.avi","KritSit"," 34:39","Angriff BVB",1,2080,2079,"keine"
+"58"," 34:45",1,"BVB --> FCB",1,417,"FCB","","","","Torschuss BVB, Torwart wehrt ab",1,2085,NA,NA
+"59"," 35:35",0,"BVB --> FCB",1,427,"FCB","","","","Ballwechsel von BVB zu FCB",1,2135,NA,NA
+"60"," 35:40",0,"FCB --> FCB",0,428,"","K_M_20.avi","KritSit"," 35:40","Langer Pass in die Spitze des FCB",1,2140,2140,"keine"
+"61"," 36:00",1,"FCB --> BVB",1,432,"BVB","K_M_21.avi","KritSit"," 35:58","Torchance FCB",1,2160,2158,"keine"
+"62"," 36:30",0,"FCB --> BVB",1,438,"BVB","E_M_06.avi","Ecken"," 36:29","Ecke FCB",1,2190,2189,"ALL"
+"63"," 38:46",0,"FCB --> FCB",0,465,"","K_M_22.avi","KritSit"," 38:46","Langer Ball",1,2326,2326,"keine"
+"64"," 38:50",0,"FCB --> FCB",1,466,"FCB","K_M_23.avi","KritSit"," 38:51","Angriff FCB",1,2330,2331,"keine"
+"65"," 38:55",1,"FCB --> BVB",1,467,"BVBFCB","","","","Torchance FCB",1,2335,NA,NA
+"66"," 39:00",1,"BVB --> FCB",1,468,"FCB","","","","Ballverlust BVB",1,2340,NA,NA
+"67"," 41:15",0,"BVB --> BVB",1,495,"FCB","K_D_24.avi","KritSit"," 41:16","Angriff BVB",1,2475,2476,"keine"
+"68"," 41:20",0,"BVB --> FCB",1,496,"BVB","","","","Torschuss BVB, daneben",1,2480,NA,NA
+"69"," 42:15",1,"FCB --> BVB",1,507,"BVBFCB","T_M_09.avi","Tor"," 42:15","Torchance FCB",1,2535,2535,"ALL"
+"70"," 43:50",0,"FCB --> FCB",0,526,"","K_M_25.avi","KritSit","  43:50","Angriff FCB",1,2630,2630,"keine"
+"71"," 43:55",0,"FCB --> FCB",1,527,"BVB","","","","Angriff FCB",1,2635,NA,NA
+"72"," 46:45",0,"BVB --> FCB",1,21,"BVB","","","","Foul FCB an BVB",2,105,NA,NA
+"73"," 47:25",0,"BVB --> FCB",1,29,"FCB","K_D_26.avi","KritSit"," 47:24","Freistoß BVB, Torwart fängt",2,145,144,"keine"
+"74"," 48:22",0,"BVB --> FCB",0,40,"","K_D_27.avi","KritSit"," 48:22","Langer Pass BVB",2,202,202,"keine"
+"75"," 49:25",0,"BVB --> BVB",1,53,"BVB","","","","Angriff BVB",2,265,NA,NA
+"76"," 50:39",0,"BVB --> FCB",0,67,"","K_D_28.avi","KritSit"," 50:39","Ballverlust BVB während des Angriffs",2,339,339,"keine"
+"77"," 51:59",0,"FCB --> FCB",0,83,"","K_M_29.avi","KritSit"," 51:59","Pass an der Spitze",2,419,419,"keine"
+"78","  52:45",1,"FCB --> BVB",1,93,"FCB","","","","Torchance FCB",2,465,NA,NA
+"79"," 55:31",0,"FCB --> FCB",0,126,"","K_M_30.avi","KritSit"," 55:31","Langer Pass in die Spitze des FCB",2,631,631,"keine"
+"80"," 57:45",0,"FCB --> FCB",1,153,"BVB","","","","Pass FCB",2,765,NA,NA
+"81"," 57:51",1,"FCB --> BVB",0,154,"","K_M_31.avi","KritSit"," 57:51","Schuss FCB abgewehrt von BVB",2,771,771,"keine"
+"82"," 58:20",1,"FCB --> BVB",1,160,"BVBFCB","T_M_10.avi","Tor"," 58:21","Ecke mit Torschuss FCB, Torwart fängt",2,800,801,"ALL"
+"83"," 59:00",0,"FCB --> FCB",1,168,"FCB","","","","Angriff FCB",2,840,NA,NA
+"84"," 59:05",1,"FCB --> FCB",1,169,"BVBFCB","T_M_11.avi","Tor"," 59:03","Tor FCB",2,845,843,"ALL"
+"85"," 61:32",0,"FCB --> FCB",0,198,"","K_M_32.avi","KritSit"," 61:32","Langer Ball in die Spitze",2,992,992,"keine"
+"86"," 61:35",1,"FCB --> BVB",1,199,"FCB","T_M_12.avi","Tor"," 61:36","Angriff FCB mit Torschuss, Torwart hält",2,995,996,"ALL"
+"87"," 62:13",1,"BVB --> FCB",0,206,"","T_D_13.avi","Tor"," 62:13","Schuss aufs Tor --> daneben",2,1033,1033,"keine"
+"88"," 62:48",0,"BVB --> BVB",0,213,"","E_D_07.avi","Ecken"," 62:48","Ecke/Einwurf BVB",2,1068,1068,"keine"
+"89"," 65:08",0,"FCB --> BVB",0,241,"","K_M_33.avi","KritSit"," 65:08","Pass FCB wird von BVB angefangen",2,1208,1208,"keine"
+"90"," 65:25",0,"BVB --> BVB",1,245,"FCB","K_D_34.avi","KritSit"," 65:26","Angriff BVB, langer Pass in die Spitze",2,1225,1226,"keine"
+"91"," 66:30",1,"BVB --> BVB",1,258,"BVBFCB","","","","Foul FCB an BVB",2,1290,NA,NA
+"92"," 66:35",1,"",1,259,"BVB","","","","Pfiff zum Elfmeter",2,1295,NA,NA
+"93"," 67:10",1,"",1,266,"BVB","","","","Vorbereitung Elfmeter",2,1330,NA,NA
+"94"," 67:25",1,"",1,269,"BVB","","","","Vorbereitung Elfmeter",2,1345,NA,NA
+"95"," 67:30",1,"",1,270,"FCB","","","","Startpfiff Elfmeter",2,1350,NA,NA
+"96"," 67:35",1,"",1,271,"BVB","","","","Elfmeterschuss und Tor Dortmund",2,1355,NA,NA
+"97"," 67:40",1,"",1,272,"BVB","","","","Torjubel",2,1360,NA,NA
+"98"," 68:59",0,"FCB --> FCB",0,287,"","E_M_08.avi","Ecken"," 68:59","Ecke FCB",2,1439,1439,"keine"
+"99"," 69:05",0,"FCB --> BVB",1,289,"BVB","","","","Ballverlust FCB, Angriff BVB",2,1445,NA,NA
+"100"," 69:10",0,"BVB --> BVB",1,290,"BVB","K_D_34.1.avi","KritSit"," 69:08","Angriff und langer Pass BVB",2,1450,1448,"keine"
+"101"," 69:15",0,"BVB --> FCB",1,291,"BVBFCB","T_D_14.avi","Tor"," 69:17","Angriff und Torschuss BVB",2,1455,1457,"ALL"
+"102"," 70:12",0,"BVB --> FCB",0,302,"","K_D_36.avi","KritSit"," 70:12","Langer Pass nach vorne",2,1512,1512,"keine"
+"103"," 71:10",0,"BVB --> BVB",1,314,"FCB","K_D_37.avi","KritSit"," 71:08","Abschlag Torhüter BVB - langer Ball - Angriff BVB",2,1570,1568,"keine"
+"104"," 71:25",1,"FCB --> BVB",1,317,"FCB","K_M_38.avi","KritSit"," 71:23","Angriff FCB, Torschuss",2,1585,1583,"keine"
+"105"," 72:16",0,"FCB --> FCB",0,327,"","K_M_39.avi","KritSit"," 72:16","Freistoß FCB",2,1636,1636,"keine"
+"106"," 74:00",0,"FCB --> FCB",1,348,"FCB","","","","Angriff FCB",2,1740,NA,NA
+"107"," 74:35",0,"BVB --> BVB",1,355,"BVBFCB","","","","Abstoß BVB - Angriff BVB",2,1775,NA,NA
+"108"," 74:47",0,"FCB --> FCB",0,357,"","K_M_40.avi","KritSit"," 74:47","Langer Pass FCB",2,1787,1787,"keine"
+"109"," 75:20",1,"FCB --> FCB",1,364,"BVBFCB","","","","Angriff FCB",2,1820,NA,NA
+"110"," 75:25",0,"FCB --> BVB",1,365,"BVB","T_M_15.avi","Tor"," 75:22","Torschuss FCB, Torwart wehrt ab",2,1825,1822,"ALL"
+"111"," 75:45",0,"FCB --> BVB",0,369,"","E_M_09.avi","Ecken"," 75:45","Ecke FCB",2,1845,1845,"keine"
+"112"," 76:00",1,"FCB --> BVB",1,372,"BVBFCB","K_M_41.avi","KritSit"," 76:00","Angriff FCB mit Torschuss",2,1860,1860,"ALL"
+"113"," 76:45",0,"FCB --> FCB",0,381,"","K_M_42.avi","KritSit"," 76:45","Angriff FCB mit Torschuss",2,1905,1905,"keine"
+"114"," 78:00",0,"FCB --> BVB",1,396,"BVB","","","","Ballwechsel, Angriff BVB",2,1980,NA,NA
+"115"," 81:45",1,"FCB --> FCB",1,441,"BVB","K_M_43.avi","KritSit"," 81:45","Angriff FCB, langer Ball ins Zentrum",2,2205,2205,"keine"
+"116"," 81:55",1,"FCB --> BVB",1,443,"BVB","","","","Langer Ball vors Tor, Torchance FCB",2,2215,NA,NA
+"117"," 82:25",0,"FCB --> FCB",1,449,"BVBFCB","T_M_16.avi","Tor"," 82:26","Ecke mit Torschuss FCB, übers Tor",2,2245,2246,"ALL"
+"118"," 83:45",1,"BVB --> FCB",1,465,"FCB","K_D_44.avi","KritSit"," 83:45","Freistoß BVB",2,2325,2325,"keine"
+"119"," 84:59",0,"BVB --> FCB",0,479,"","K_D_45.avi","KritSit"," 84:59","Langer Pass nach vorne",2,2399,2399,"keine"
+"120"," 86:40",0,"FCB --> BVB",1,500,"FCB","","","","Angriff FCB, vor Strafraum abgefangen",2,2500,NA,NA
+"121"," 86:55",0,"FCB --> BVB",1,503,"BVBFCB","T_M_17.avi","Tor"," 86:55","Torschuss FCB, Torwart wehrt ab",2,2515,2515,"ALL"
+"122"," 87:20",1,"FCB --> FCB",0,508,"","E_M_10.avi","Ecken"," 87:20","Ecke FCB",2,2540,2540,"keine"
+"123"," 88:20",1,"FCB --> FCB",1,520,"FCB","T_M_22.avi","Tor"," 88:22","Angriff FCB mit Tor FCB",2,2600,2602,"ALL"
+"124"," 88:25",1,"FCB --> FCB",1,521,"BVB","","","","Tor FCB, Torjubel",2,2605,NA,NA
+"125"," 90:55",0,"BVB --> BVB",1,551,"FCB","","","","Angriff BVB",2,2755,NA,NA
+"126"," 91:00",1,"BVB --> FCB",1,552,"BVB","T_D_19.avi","Tor"," 90:58","Toschuss BVB, Torwart hält",2,2760,2758,"ALL"

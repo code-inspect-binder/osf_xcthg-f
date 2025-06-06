@@ -1,0 +1,127 @@
+Zeit,Strafraum,Ballbesitz,ball_pos_change,Boundary,interval,FanEB,Movie,testType,ZeitMemoryItem,Bemerkung,halftime
+ 01:05,0,FCB --> FCB,no,0,13,,K_M_01.avi,KritSit, 01:05,langer Pass,1
+ 01:50,0,BVB --> FCB,yes,1,22,FCB,K_D_02.avi,KritSit, 01:51,Test Item andere Szene,1
+ 02:20,1,BVB --> BVB,no,0,29,,K_D_03.avi,KritSit, 02:20,langer Pass in den Strafraum des FCB,1
+ 02:22,1,BVB --> FCB,yes,0,30,,T_D_01.avi,Tor, 02:22,Torschuss nebens Tor,1
+02:55,1,BVB --> FCB,yes,1,35,FCB,E_D_01.avi,Ecken,02:58,Ecke Dortmund auf Kopf von FCB,1
+03:22,0,BVB --> BVB,no,0,40,,K_D_04.avi,KritSit,03:22,Langer Pass aus dem Strafraum des FCB,1
+04:05,1,FCB --> BVB,yes,1,49,FCB,,,,"Langer Pass (zu lang), wird vom Torwart leicht gefangen und BVB hat den Ball",1
+04:51,0,BVB --> BVB,no,0,58,,K_D_05.avi,KritSit,04:51,,1
+06:02,1,BVB --> FCB,yes,0,72,,K_D_06.avi,KritSit,06:02,Freistoß in den Strafraum,1
+06:35,1,BVB --> FCB,yes,1,79,FCB,E_D_02.avi,Ecken, 06:39,Ecke Dortmund Torwart fängt sicher,1
+07:23,0,FCB --> FCB,no,0,88,,K_M_07.avi,KritSit,07:23,Pass am Boden,1
+08:50,0,BVB --> FCB,yes,1,106,FCB,K_D_08.avi,KritSit, 08:50,"Ballabnahme, hoher Ball, BVB bleibt dann doch im Ballbesitz",1
+09:03,0,BVB --> BVB,no,0,108,,K_D_09.avi,KritSit, 09:02,Pass am Boden,1
+09:35,1,FCB --> BVB,yes,1,115,BVB,,,,Ballverlust FCB im Strafraum,1
+ 09:43,0,BVB --> BVB,no,0,116,,K_D_11.avi,KritSit, 09:43,langer Pass am Boden,1
+ 09:47,0,BVB --> BVB,no,0,117,,K_D_10.avi,KritSit,  09:47,"Angriff BVB, kurz vor Strafraum",1
+09:50,1,BVB --> FCB,yes,1,118,BVBFCB,T_D_02.avi,Tor, 09:49,"Torschuss aus dem Mittelfeld, knapp übers Tor",1
+11:45,0,FCB --> BVB,yes,1,141,FCB,,,,Ball ins Aus gespielt,1
+ 12:32,0,BVB --> BVB,no,0,150,,K_D_12.avi,KritSit, 12:32,Zweikampf an der langen Seit ,1
+12:35,0,BVB --> BVB,no,1,151,BVB,,,,"Angriff BVB auf Torseite, Ball ins Aus",1
+12:40,1,BVB --> FCB,yes,1,152,FCB,,,,Ball im Aus,1
+12:55,0,FCB --> BVB,yes,1,155,FCB,,,,"Fehlpass FCB, Ball wird von BVB abgefangen",1
+13:00,1,BVB --> FCB,yes,1,156,BVBFCB,T_D_03.avi,Tor, 13:01,"Torschuss aus dem Mittelfeld, Torwart ist noch dran - Latte",1
+13:45,1,BVB --> FCB,yes,1,165,FCB,E_D_03.avi,Ecken, 13:48,"Ecke Dortmund, Kopf FCB",1
+13:55,0,BVB --> BVB,no,1,167,FCB,,,,"Pass BVB BVB, am Boden, nahe am Strafraum",1
+14:00,1,BVB --> FCB,yes,1,168,BVB,T_D_03.1.avi,Tor, 13:58,"Schuss BVB am Boden, Torwart wehrt ab",1
+14:24,1,BVB --> FCB,yes,0,172,,E_D_03.1.avi,Ecken,14:24,"Ecke BVB, Kopf FCB",1
+14:34,0,FCB --> BVB,yes,0,174,,K_D_12.1.avi,KritSit,  14:34,Fallrückzieher FCB --> langer Ball ,1
+15:40,0,FCB --> FCB,no,1,188,FCB,,,,Angriff FCB auf der BVB Hälfte,1
+15:45,1,FCB --> BVB,yes,1,189,BVBFCB,T_M_04.avi,Tor, 15:43,"Torschuss am Boden FCB, Torwart hält",1
+ 16:39,0,FCB --> BVB,yes,0,199,,K_M_13.avi,KritSit, 16:39,"Fehlpass FCB, Ball wird von BVB abgefangen",1
+17:10,0,BVB --> FCB,yes,1,206,FCB,,,,Foul BVB an FCB nach Fehlpass BVB,1
+18:25,0,BVB --> BVB,no,1,221,BVB,,,,Angriff BVB,1
+18:30,0,BVB --> BVB,no,1,222,FCB,,,,Angriff BVB,1
+18:35,0,BVB --> FCB,yes,1,223,BVBFCB,T_D_05.avi,Tor, 18:33,"Torschuss aufs Tor, Torwart wehrt ab",1
+19:05,0,BVB --> FCB,yes,0,229,FCB,E_D_04.avi,Ecken, 19:06,Ecke Dortmund,1
+20:54,0,FCB --> BVB,yes,0,250,,K_M_14.avi,KritSit, 20:54,Einwurf FCB --> Kopf BVB,1
+21:05,0,BVB --> BVB,no,1,253,BVB,,,,"Angriff BVB, Geräuschkulisse schwillt an",1
+21:10,0,BVB --> FCB,yes,0,254,,K_D_15.avi,KritSit, 21:10,Ballverlust BVB während des Angriffs,1
+21:20,1,BVB --> FCB,yes,1,256,BVBFCB,T_D_06.avi,Tor, 21:22,Angriff BVB mit Torschuss BVB --> Torwart fängt,1
+22:40,0,BVB --> BVB,no,0,272,,K_D_16.avi,KritSit, 22:42,,1
+ 23:15,0,BVB --> BVB,no,0,279,,K_D_17.avi,KritSit, 23:15,Pass in Nähe des Strafraums,1
+23:40,1,BVB --> BVB,no,1,284,FCB,,,,Rückpass zum Torwart BVB,1
+ 24:20,0,BVB --> FCB,yes,1,292,FCB,,,,Angriff BVB --> Schiedsrichter steht dazwischen,1
+ 24:35,1,FCB --> BVB,yes,1,295,FCB,,,,Angriff FCB wird im Strafraum BVB abgefangen,1
+ 24:48,0,BVB --> FCB,yes,0,297,,K_M_17.1.avi,KritSit, 24:48,Langer Ball BVB zu FCB,1
+ 24:50,0,FCB --> BVB,yes,1,298,FCB,,,,"Foul BVB an FCB, dann Foul Ribéry",1
+ 25:40,1,FCB --> BVB,yes,1,308,BVBFCB,T_M_07.avi,Tor, 25:40,Torschuss Bayern,1
+ 26:20,1,FCB --> BVB,yes,1,316,FCB,T_M_08.avi,Tor, 26:24,Ecke und Torschuss FCB,1
+ 28:54,0,BVB --> BVB,no,0,346,,K_D_18.avi,KritSit, 28:54,Langer Pass BVB,1
+ 29:00,1,BVB --> FCB,yes,1,348,FCB,,,,"Torchance BVB, Torwart hält",1
+ 29:40,0,FCB --> FCB,no,1,356,FCB,,,,Langer Pass nach vorne FCB,1
+ 29:45,1,FCB --> BVB,yes,1,357,BVBFCB,T_M_08.1.avi,Tor, 29:45,"Torschuss FCB, Torwart fängt",1
+ 30:04,1,FCB --> FCB,no,0,360,,E_M_05.avi,Ecken, 30:04,Ecke FCB,1
+ 33:25,0,FCB --> BVB,yes,1,401,BVB,,,,Freistoß FCB,1
+ 34:05,0,BVB --> FCB,yes,1,409,BVB,,,,Ballverlust BVB,1
+ 34:40,0,BVB --> BVB,no,1,416,BVB,K_D_19.avi,KritSit, 34:39,Angriff BVB,1
+ 34:45,1,BVB --> FCB,yes,1,417,FCB,,,,"Torschuss BVB, Torwart wehrt ab",1
+ 35:35,0,BVB --> FCB,yes,1,427,FCB,,,,Ballwechsel von BVB zu FCB,1
+ 35:40,0,FCB --> FCB,no,0,428,,K_M_20.avi,KritSit, 35:40,Langer Pass in die Spitze des FCB,1
+ 36:00,1,FCB --> BVB,yes,1,432,BVB,K_M_21.avi,KritSit, 35:58,Torchance FCB,1
+ 36:30,0,FCB --> BVB,yes,1,438,BVB,E_M_06.avi,Ecken, 36:29,Ecke FCB,1
+ 38:46,0,FCB --> FCB,no,0,465,,K_M_22.avi,KritSit, 38:46,Langer Ball,1
+ 38:50,0,FCB --> FCB,no,1,466,FCB,K_M_23.avi,KritSit, 38:51,Angriff FCB,1
+ 38:55,1,FCB --> BVB,yes,1,467,BVBFCB,,,,Torchance FCB,1
+ 39:00,1,BVB --> FCB,yes,1,468,FCB,,,,Ballverlust BVB,1
+ 41:15,0,BVB --> BVB,no,1,495,FCB,K_D_24.avi,KritSit, 41:16,Angriff BVB,1
+ 41:20,0,BVB --> FCB,yes,1,496,BVB,,,,"Torschuss BVB, daneben",1
+ 42:15,1,FCB --> BVB,yes,1,507,BVBFCB,T_M_09.avi,Tor, 42:15,Torchance FCB,1
+ 43:50,0,FCB --> FCB,no,0,526,,K_M_25.avi,KritSit,  43:50,Angriff FCB,1
+ 43:55,0,FCB --> FCB,no,1,527,BVB,,,,Angriff FCB,1
+ 46:45,0,BVB --> FCB,yes,1,21,BVB,,,,Foul FCB an BVB,2
+ 47:25,0,BVB --> FCB,yes,1,29,FCB,K_D_26.avi,KritSit, 47:24,"Freistoß BVB, Torwart fängt",2
+ 48:22,0,BVB --> FCB,yes,0,40,,K_D_27.avi,KritSit, 48:22,Langer Pass BVB,2
+ 49:25,0,BVB --> BVB,no,1,53,BVB,,,,Angriff BVB,2
+ 50:39,0,BVB --> FCB,yes,0,67,,K_D_28.avi,KritSit, 50:39,Ballverlust BVB während des Angriffs,2
+ 51:59,0,FCB --> FCB,no,0,83,,K_M_29.avi,KritSit, 51:59,Pass an der Spitze,2
+  52:45,1,FCB --> BVB,yes,1,93,FCB,,,,Torchance FCB,2
+ 55:31,0,FCB --> FCB,no,0,126,,K_M_30.avi,KritSit, 55:31,Langer Pass in die Spitze des FCB,2
+ 57:45,0,FCB --> FCB,no,1,153,BVB,,,,Pass FCB,2
+ 57:51,1,FCB --> BVB,yes,0,154,,K_M_31.avi,KritSit, 57:51,Schuss FCB abgewehrt von BVB,2
+ 58:20,1,FCB --> BVB,yes,1,160,BVBFCB,T_M_10.avi,Tor, 58:21,"Ecke mit Torschuss FCB, Torwart fängt",2
+ 59:00,0,FCB --> FCB,no,1,168,FCB,,,,Angriff FCB,2
+ 59:05,1,FCB --> FCB,no,1,169,BVBFCB,T_M_11.avi,Tor, 59:03,Tor FCB,2
+ 61:32,0,FCB --> FCB,no,0,198,,K_M_32.avi,KritSit, 61:32,Langer Ball in die Spitze,2
+ 61:35,1,FCB --> BVB,yes,1,199,FCB,T_M_12.avi,Tor, 61:36,"Angriff FCB mit Torschuss, Torwart hält",2
+ 62:13,1,BVB --> FCB,yes,0,206,,T_D_13.avi,Tor, 62:13,Schuss aufs Tor --> daneben,2
+ 62:48,0,BVB --> BVB,no,0,213,,E_D_07.avi,Ecken, 62:48,Ecke/Einwurf BVB,2
+ 65:08,0,FCB --> BVB,yes,0,241,,K_M_33.avi,KritSit, 65:08,Pass FCB wird von BVB angefangen,2
+ 65:25,0,BVB --> BVB,no,1,245,FCB,K_D_34.avi,KritSit, 65:26,"Angriff BVB, langer Pass in die Spitze",2
+ 66:30,1,BVB --> BVB,no,1,258,BVBFCB,,,,Foul FCB an BVB,2
+ 66:35,1,,,1,259,BVB,,,,Pfiff zum Elfmeter,2
+ 67:10,1,,,1,266,BVB,,,,Vorbereitung Elfmeter,2
+ 67:25,1,,,1,269,BVB,,,,Vorbereitung Elfmeter,2
+ 67:30,1,,,1,270,FCB,,,,Startpfiff Elfmeter,2
+ 67:35,1,,,1,271,BVB,,,,Elfmeterschuss und Tor Dortmund,2
+ 67:40,1,,,1,272,BVB,,,,Torjubel,2
+ 68:59,0,FCB --> FCB,no,0,287,,E_M_08.avi,Ecken, 68:59,Ecke FCB,2
+ 69:05,0,FCB --> BVB,yes,1,289,BVB,,,,"Ballverlust FCB, Angriff BVB",2
+ 69:10,0,BVB --> BVB,no,1,290,BVB,K_D_34.1.avi,KritSit, 69:08,Angriff und langer Pass BVB,2
+ 69:15,0,BVB --> FCB,yes,1,291,BVBFCB,T_D_14.avi,Tor, 69:17,Angriff und Torschuss BVB,2
+ 70:12,0,BVB --> FCB,yes,0,302,,K_D_36.avi,KritSit, 70:12,Langer Pass nach vorne,2
+ 71:10,0,BVB --> BVB,no,1,314,FCB,K_D_37.avi,KritSit, 71:08,Abschlag Torhüter BVB - langer Ball - Angriff BVB,2
+ 71:25,1,FCB --> BVB,yes,1,317,FCB,K_M_38.avi,KritSit, 71:23,"Angriff FCB, Torschuss",2
+ 72:16,0,FCB --> FCB,no,0,327,,K_M_39.avi,KritSit, 72:16,Freistoß FCB,2
+ 74:00,0,FCB --> FCB,no,1,348,FCB,,,,Angriff FCB,2
+ 74:35,0,BVB --> BVB,no,1,355,BVBFCB,,,,Abstoß BVB - Angriff BVB,2
+ 74:47,0,FCB --> FCB,no,0,357,,K_M_40.avi,KritSit, 74:47,Langer Pass FCB,2
+ 75:20,1,FCB --> FCB,no,1,364,BVBFCB,,,,Angriff FCB,2
+ 75:25,0,FCB --> BVB,yes,1,365,BVB,T_M_15.avi,Tor, 75:22,"Torschuss FCB, Torwart wehrt ab",2
+ 75:45,0,FCB --> BVB,yes,0,369,,E_M_09.avi,Ecken, 75:45,Ecke FCB,2
+ 76:00,1,FCB --> BVB,yes,1,372,BVBFCB,K_M_41.avi,KritSit, 76:00,Angriff FCB mit Torschuss,2
+ 76:45,0,FCB --> FCB,no,0,381,,K_M_42.avi,KritSit, 76:45,Angriff FCB mit Torschuss,2
+ 78:00,0,FCB --> BVB,yes,1,396,BVB,,,,"Ballwechsel, Angriff BVB",2
+ 81:45,1,FCB --> FCB,no,1,441,BVB,K_M_43.avi,KritSit, 81:45,"Angriff FCB, langer Ball ins Zentrum",2
+ 81:55,1,FCB --> BVB,yes,1,443,BVB,,,,"Langer Ball vors Tor, Torchance FCB",2
+ 82:25,0,FCB --> FCB,no,1,449,BVBFCB,T_M_16.avi,Tor, 82:26,"Ecke mit Torschuss FCB, übers Tor",2
+ 83:45,1,BVB --> FCB,yes,1,465,FCB,K_D_44.avi,KritSit, 83:45,Freistoß BVB,2
+ 84:59,0,BVB --> FCB,yes,0,479,,K_D_45.avi,KritSit, 84:59,Langer Pass nach vorne,2
+ 86:40,0,FCB --> BVB,yes,1,500,FCB,,,,"Angriff FCB, vor Strafraum abgefangen",2
+ 86:55,0,FCB --> BVB,yes,1,503,BVBFCB,T_M_17.avi,Tor, 86:55,"Torschuss FCB, Torwart wehrt ab",2
+ 87:20,1,FCB --> FCB,no,0,508,,E_M_10.avi,Ecken, 87:20,Ecke FCB,2
+ 88:20,1,FCB --> FCB,no,1,520,FCB,T_M_22.avi,Tor, 88:22,Angriff FCB mit Tor FCB,2
+ 88:25,1,FCB --> FCB,no,1,521,BVB,,,,"Tor FCB, Torjubel",2
+ 90:55,0,BVB --> BVB,no,1,551,FCB,,,,Angriff BVB,2
+ 91:00,1,BVB --> FCB,yes,1,552,BVB,T_D_19.avi,Tor, 90:58,"Toschuss BVB, Torwart hält",2

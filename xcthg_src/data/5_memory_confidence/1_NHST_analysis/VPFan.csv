@@ -1,0 +1,59 @@
+,dat_frag.v_148,fanOrig,code,Tischnummer,participant,experiment,count
+1,Borussia Dortmund,BVB,S0508D,1,1,segmentation,23
+34,FC Bayern München,FCB,N0607H,2,2,segmentation,483
+2,Borussia Dortmund,BVB,N2911F,3,3,segmentation,125
+35,FC Bayern München,FCB,A1508C,4,4,segmentation,67
+3,VFB Stuttgart normalerweise  in diesem Finale Borussia Dortmund,VfB,H2408C,5,5,segmentation,111
+36,FCB,FCB,V2409I,6,6,segmentation,119
+4,Borussia Dortmund,BVB,D2301P,7,7,segmentation,25
+37,Bayern,FCB,D0307C,8,8,eye-tracking,NA
+5,Dortmund,BVB,B2711K,9,9,eye-tracking,NA
+38,FC Bayern München,FCB,P1410U,10,10,eye-tracking,NA
+6,BVB,BVB,r1107l,11,11,eye-tracking,NA
+39,FC  Bayern München,FCB,S1011S,12,12,eye-tracking,NA
+7,Borussia Dortmund,BVB,R1309S,13,13,eye-tracking,NA
+40,FCB,FCB,N1302K,14,14,eye-tracking,NA
+8,BVB,BVB,D2607m,15,15,eye-tracking,NA
+41,FC Bayern,FCB,K1404E,16,16,eye-tracking,NA
+9,Borussia Dortmund,BVB,M2912K,17,17,eye-tracking,NA
+42,FC Bayern,FCB,F1005D,18,18,eye-tracking,NA
+10,Manchester United,ManU,P2802R,19,19,eye-tracking,NA
+43,FCB,FCB,T2801A,20,20,eye-tracking,NA
+11,Borussia Dortmund,BVB,A3007C,21,21,eye-tracking,NA
+44,Stuttgarter Kickers,Stuttgarter Kickers,j2407i,22,22,eye-tracking,NA
+12,BVB,BVB,f0609m,23,23,segmentation,38
+13,VFB,VfB,h250515j,24,24,segmentation,12
+14,SC Freiburg,SC Freiburg,m1811k,25,25,segmentation,NA
+45, f c  bayern  München,FCB,K1907J,26,26,segmentation,13
+15,KSC (Karlsruher Sport Club) MSV Duisburg,KSC,M2006M,28,28,segmentation,104
+16,VFB Stuttgart,VfB,M2511J,29,29,segmentation,3
+17,VfB Stuttgart,VfB,d0604d,30,30,segmentation,99
+18,VfB Stuttgart,VfB,D1811S,31,31,segmentation,NA
+19,VFB Stuttgart,VfB,M0707S,32,32,segmentation,13
+20,VfB Stuttgart,VfB,F1806H,33,33,segmentation,329
+21,BVB,BVB,J1903J,34,34,segmentation,323
+46,VfB Stuttgart,VfB,A0705G,35,35,segmentation,23
+22,Borussia Dortmund,BVB,K0805A,36,36,segmentation,51
+23,VfB Stuttgart,VfB,D0704A,38,38,segmentation,77
+47,Fc Bayern München,FCB,J0505B,39,39,segmentation,46
+24,VFB Stuttgart,VfB,R0212S,40,40,segmentation,20
+48,FC Bayern München,FCB,F2907B,41,41,segmentation,125
+25,Dortmund,BVB,J2105A,42,42,segmentation,162
+49,Vfb Stuttgart,VfB,M3105H,43,43,segmentation,62
+26,Borussia Dortmund,BVB,M0308A,44,44,segmentation,46
+50,Bayer Leverkusen,Bayer 04 Leverkusen,S0807C,45,45,eye-tracking,NA
+51,Bayer 04 Leverkusen,Bayer 04 Leverkusen,J0212A,47,47,eye-tracking,NA
+27,VfB Stuttgart,VfB,s1208e,48,48,eye-tracking,NA
+52,VfB Stuttgart,VfB,a2308c,49,49,eye-tracking,NA
+28,BVB Dortmund,BVB,a0811h,50,50,eye-tracking,NA
+53,VfB Stuttgart,VfB,M1310J,51,51,segmentation,NA
+29,BVB,BVB,B1705L,52,52,segmentation,47
+54,Bayern,FCB,53,53,53,segmentation,93
+30,VfB Stuttgart,VfB,J0302D,54,54,segmentation,220
+55,FCB VfB,FCB,D1408B,55,55,segmentation,17
+31,VfB Stuttgart,VfB,S0108F,56,56,segmentation,NA
+56,Werder Bremen,Werder Bremen,J2801H,57,57,segmentation,46
+32,Borussia Dortmund,BVB,h0407e,58,58,segmentation,56
+57,FCB,FCB,P0902L,59,59,segmentation,37
+33,VFB Stuttgart,VfB,s0709c,60,60,segmentation,12
+58,FC Bayern München,FCB,N2812S,61,61,segmentation,31

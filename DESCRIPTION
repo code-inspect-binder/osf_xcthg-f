@@ -1,0 +1,8 @@
+Package: repo2dockerProject
+Type: Package
+Title: Executable OSF Environment
+Version: 1.0
+Authors@R: c(person("Maintainer", "Example", email = "maintainer@example.com", role = c("aut", "cre")))
+Description: Automatically generated DESCRIPTION file for Repo2Docker.
+License: See license and authorship information at https://osf.io/xcthg/
+Imports: BayesFactor, FNN, LMERConvenienceFunctions, PsychHelperFunctions, boot, car, ez, ggplot2, gridExtra, lme4, lmerTest, lsr, plyr, psych, readr, readxl, reshape2, sciplot, segmag, stringr, tidyr, 
